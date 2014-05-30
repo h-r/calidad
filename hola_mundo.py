@@ -1,5 +1,6 @@
 
-def hola_mundo():
-   print "hola mundo"
+def hola_mundo(i):
+   for e in range(0,i):
+      print "hola mundo"
 
-hola_mundo()
+hola_mundo(4)
