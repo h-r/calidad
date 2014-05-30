@@ -1,6 +1,6 @@
 
 def hola_mundo(i):
    for e in range(0,i):
-      print "hola mundo"
+      print "hola mundo master"
 
-hola_mundo(6)
+hola_mundo(3)
