@@ -7,6 +7,9 @@ def adios_mundo(i):
    for e in range(0,i):
       print "adios mundo"
 
-hola_mundo(1)
-adios_mundo(2)
+def main(i):
+    hola_mundo(i)
+    adios_mundo(i)
+
+main(2)
 
